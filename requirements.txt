@@ -2,7 +2,5 @@ streamlit
 numpy
 pandas
 json
-matplotlib
 seaborn
-selenium
 
